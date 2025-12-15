@@ -2,7 +2,7 @@ package com.masoudss.lib.utils
 
 import android.content.Context
 import android.net.Uri
-import linc.com.amplituda.Amplituda
+import com.lincollincol.amplituda.Amplituda
 import linc.com.amplituda.AmplitudaProcessingOutput
 import linc.com.amplituda.exceptions.AmplitudaException
 
